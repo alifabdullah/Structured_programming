@@ -1,0 +1,14 @@
+SP Quiz-1
+1| What is Computer programing??? and it'sclassification.
+2| Basic structure of C programming and explain it
+3| Features Chanectenisties of C program???
+4| Why do we use C programming language??
+5| Applications of C program??6| Compilation procedure of C program?
+7| Compiler, Interpreter explain8|Chapte-3 full Slide
+9|C tokens
+          *keyword
+             *Identifier
+                *Contents
+                    *String
+                       *Special Symbol
+                            *Operator
